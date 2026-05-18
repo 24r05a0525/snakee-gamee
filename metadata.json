@@ -1,0 +1,8 @@
+{
+  "name": "Cyber Snake Player",
+  "description": "A retro neon snake game with a built-in AI synthwave music player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
